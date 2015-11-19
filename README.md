@@ -40,7 +40,7 @@ Let's go to the `manifest.json` file and add few lines of code.
 ```
 **What we did**: We provided a `manifest_version`, which is `2` and that is going to be default as of now for all chrome-extensions. We gave our extension a `name`, a `description` and a `version`. This `version` number will be of importance while publishing upgrades to our chrome plugin in the play store.
 
-> **Bonus Tip:** The `default_icon` property can be changed dynamically during run-time. We'll read more about this in [another section](link unavailable)
+> **Bonus Tip:** The `default_icon` property can be changed dynamically during run-time using the `setIcon` method (fully qualified,  `chrome.browserAction.setIcon`). Read more about this from  [the chrome extension samples](https://developer.chrome.com/extensions/browserAction#method-setIcon)
 
 > **Note:** Now onwards, keep in mind that the three dots mean we're going to add more code in place of them. So, let's go ahead and add some more declarations in place of the `...`
 
