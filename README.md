@@ -3,9 +3,10 @@ Chrome Extension for enhancing Social Media experience while improving productiv
 
 # Objective
 To provide a step-by-step tutorial in creating a chrome-extension that changes
-(i) how facebook appears to users
-(ii) Later on, we may extend other social media websites
-(iii) Monitor usage and warn users if they're getting distracted too much
+
+i.  how facebook appears to users
+ii. Later on, we may extend other social media websites
+iii. Monitor usage and warn users if they're getting distracted too much
 
 # Table of Contents
 * [Getting started with creating a chrome-extension]()
